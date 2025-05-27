@@ -23,7 +23,6 @@ body {
 .cartao__conteudo {
     background-color: var(--card-front-color);
     text-align: center;
-    background-color: aquamarine;
     height: 100%;
 }
 
@@ -47,12 +46,14 @@ body {
 
 
 
-.cartao__conteudo__pergunta{
+.cartao__conteudo__pergunta p {
     color: var(--text-color);
+    font-weight: 500;
 }
 
-.cartao__conteudo__respota {
+.cartao__conteudo__respota p {
     color: var(--card-back-color);
+    font-weight: 700;
 }
 
 
