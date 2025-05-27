@@ -21,7 +21,7 @@ body {
 }
 
 .cartao__conteudo {
-    background-color: var(--card-back-color);
+    background-color: var(--card-front-color);
     text-align: center;
     background-color: aquamarine;
     height: 100%;
@@ -48,7 +48,9 @@ body {
     color: var(--text-color);
 }
 
-.cartao__conteudo__respota
+.cartao__conteudo__respota {
+    color: var(--card-back-color);
+}
 
 
 
