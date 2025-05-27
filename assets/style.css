@@ -43,9 +43,6 @@ body {
     padding: 2rem;
 }
 
-
-
-
 .cartao__conteudo__pergunta p {
     color: var(--text-color);
     font-weight: 500;
@@ -55,6 +52,16 @@ body {
     color: var(--card-back-color);
     font-weight: 700;
 }
+
+
+
+
+
+
+
+
+
+
 
 
 
